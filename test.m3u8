@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-MEDIA-SEQUENCE:121067
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:6
+#EXT-X-KEY:METHOD=AES-128,URI="https://key2.keylocking.ru/wmsxx.php?test=true&name=eplayerskymain2&number=1",IV=0x303030303030303030303030680fb025,KEYFORMAT="identity"
+#EXT-X-PROGRAM-DATE-TIME:2025-05-05T10:46:45.149+00:00
+#EXTINF:5.76,
+https://49763c55441229cdb65ef3723d1c7531.r2.cloudflarestorage.com/fed93kt2/content/images/2025/05/6vvwlyvnymwg.js?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=16c7c2a9ac053ee7bd2b321797f09d03%2F20250505%2FEEUR%2Fs3%2Faws4_request&X-Amz-Date=20250505T104525Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c6f6c71e2526943919667a4082f262f4bc644506cd50556b672109e1218d59ca
+#EXTINF:5.76,
+https://8b0ac2d322506ccb1c266dc3cd656787.r2.cloudflarestorage.com/lx7lj052/sites/default/files/2025-05-05-biinbv6u7b.csv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=7dde735924b36ae98e5d9f6702bc0ecc%2F20250505%2FEEUR%2Fs3%2Faws4_request&X-Amz-Date=20250505T104525Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=bc1b8440b573b91f302d712fe22f31042bf42d7e8a262f05c48fec1e6284ded9
+#EXTINF:5.76,
+https://8b0ac2d322506ccb1c266dc3cd656787.r2.cloudflarestorage.com/lx7lj052/fileadmin/user_upload/wxs10qfkf0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=7dde735924b36ae98e5d9f6702bc0ecc%2F20250505%2FEEUR%2Fs3%2Faws4_request&X-Amz-Date=20250505T104530Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=aec2c5cdbd49b10513849248e701072cbd0df3261dead0c59458f6a455ff5e14
+#EXTINF:5.76,
+https://49763c55441229cdb65ef3723d1c7531.r2.cloudflarestorage.com/fed93kt2/media/catalog/product/84/94zss49w.eot?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=16c7c2a9ac053ee7bd2b321797f09d03%2F20250505%2FEEUR%2Fs3%2Faws4_request&X-Amz-Date=20250505T104539Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c9712fa4b9f2fde9044e23ad0c56990896be295fa4d809b17664c660f398bcef
